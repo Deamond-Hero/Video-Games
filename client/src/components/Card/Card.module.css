@@ -1,0 +1,8 @@
+.card{
+    padding: 0.5rem;
+    align-items: center;
+    border-radius: 1rem;
+    border:0.3rem solid black;
+    width: fit-content;
+    height: fit-content;
+}

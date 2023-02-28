@@ -1,0 +1,7 @@
+.container{
+    border:1rem solid black;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
